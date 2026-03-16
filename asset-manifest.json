@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-mini-projects/static/css/main.ab5249b1.css",
-    "main.js": "/react-mini-projects/static/js/main.90f16f8e.js",
+    "main.css": "/react-mini-projects/static/css/main.4caab5f1.css",
+    "main.js": "/react-mini-projects/static/js/main.02af9072.js",
     "static/css/252.6f01c74e.chunk.css": "/react-mini-projects/static/css/252.6f01c74e.chunk.css",
     "static/js/252.083725dd.chunk.js": "/react-mini-projects/static/js/252.083725dd.chunk.js",
     "static/js/453.c51ba3a9.chunk.js": "/react-mini-projects/static/js/453.c51ba3a9.chunk.js",
     "index.html": "/react-mini-projects/index.html",
-    "main.ab5249b1.css.map": "/react-mini-projects/static/css/main.ab5249b1.css.map",
-    "main.90f16f8e.js.map": "/react-mini-projects/static/js/main.90f16f8e.js.map",
+    "main.4caab5f1.css.map": "/react-mini-projects/static/css/main.4caab5f1.css.map",
+    "main.02af9072.js.map": "/react-mini-projects/static/js/main.02af9072.js.map",
     "252.6f01c74e.chunk.css.map": "/react-mini-projects/static/css/252.6f01c74e.chunk.css.map",
     "252.083725dd.chunk.js.map": "/react-mini-projects/static/js/252.083725dd.chunk.js.map",
     "453.c51ba3a9.chunk.js.map": "/react-mini-projects/static/js/453.c51ba3a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab5249b1.css",
-    "static/js/main.90f16f8e.js"
+    "static/css/main.4caab5f1.css",
+    "static/js/main.02af9072.js"
   ]
 }
