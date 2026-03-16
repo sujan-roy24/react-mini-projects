@@ -1,0 +1,60 @@
+.header {
+  height: 64px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0 24px;
+
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+/* menu button */
+.menu-btn {
+  font-size: 22px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+
+  transition: background 0.2s;
+}
+
+.menu-btn:hover {
+  background: #f3f4f6;
+}
+
+.project-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0;
+  color: #111827;
+}
+
+/* center title */
+.header-center {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.page-title {
+  font-size: 16px;
+  font-weight: 500;
+  color: #374151;
+}

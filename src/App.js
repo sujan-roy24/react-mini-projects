@@ -1,10 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import AppLayout from "./components/layout/AppLayout";
 
 function App() {
+//   const [collapsed, setCollapsed] = useState(false);
+
+//   const sections = SECTIONS.map(({ id, label }) => ({ id, label }));
+
   return (
-    <div className="App">
-        <h1>Hello World</h1>
+    <div>
+        <AppLayout/>
     </div>
   );
 }
